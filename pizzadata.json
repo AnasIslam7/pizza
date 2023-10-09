@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Margherita Pizza",
+    "description": "Classic Italian pizza with tomato sauce, mozzarella cheese, and fresh basil leaves.",
+    "toppings": ["Tomato Sauce", "Mozzarella Cheese", "Fresh Basil"],
+    "price": 10.99,
+    "image_url": "https://w7.pngwing.com/pngs/339/55/png-transparent-pizza-margherita-italian-cuisine-hot-dog-pizza-cheese-pizza-thumbnail.png",
+    "category": "Vegetarian"
+  },
+  {
+    "id": 2,
+    "name": "Pepperoni Pizza",
+    "description": "A timeless favorite with tomato sauce, mozzarella cheese, and pepperoni slices.",
+    "toppings": ["Tomato Sauce", "Mozzarella Cheese", "Pepperoni"],
+    "price": 12.99,
+    "image_url": "https://w7.pngwing.com/pngs/21/55/png-transparent-pepperoni-pizza-margarita-pizza-margherita-italian-cuisine-tomato-pizza-food-cheese-recipe-thumbnail.png",
+    "category": "Meat Lovers"
+  },
+  {
+    "id": 3,
+    "name": "Vegetarian Pizza",
+    "description": "Loaded with a variety of fresh vegetables, tomato sauce, and mozzarella cheese.",
+    "toppings": ["Tomato Sauce", "Mozzarella Cheese", "Assorted Vegetables"],
+    "price": 11.99,
+    "image_url": "https://img.freepik.com/free-photo/seafood-pizza_74190-5944.jpg?w=996&t=st=1693062328~exp=1693062928~hmac=53fd9ad496580db41c6ca8066510cd89c6b0a0389de8bb6b875a78a1eda09cb5",
+    "category": "Vegetarian"
+  },
+  {
+    "id": 4,
+    "name": "Hawaiian Pizza",
+    "description": "Sweet and savory with tomato sauce, mozzarella cheese, ham, and pineapple chunks.",
+    "toppings": ["Tomato Sauce", "Mozzarella Cheese", "Ham", "Pineapple"],
+    "price": 13.99,
+    "image_url": "https://w7.pngwing.com/pngs/569/109/png-transparent-pizza-with-vegetables-and-mushroom-toppings-sicilian-pizza-california-style-pizza-pizza-margherita-vegetarian-cuisine-pizza-food-recipe-gourmet-thumbnail.png",
+    "category": "Specialty"
+  },
+  {
+    "id": 5,
+    "name": "Supreme Pizza",
+    "description": "A hearty pizza with tomato sauce, mozzarella cheese, pepperoni, sausage, bell peppers, onions, and olives.",
+    "toppings": ["Tomato Sauce", "Mozzarella Cheese", "Pepperoni", "Sausage", "Bell Peppers", "Onions", "Olives"],
+    "price": 14.99,
+    "image_url": "https://w7.pngwing.com/pngs/843/171/png-transparent-pizza-73-restaurant-catupiry-chicken-as-food-pizza-baked-goods-food-recipe-thumbnail.png",
+    "category": "Specialty"
+  },
+  {
+    "id": 6,
+    "name": "BBQ Chicken Pizza",
+    "description": "Tangy BBQ sauce, mozzarella cheese, grilled chicken, red onions, and cilantro.",
+    "toppings": ["BBQ Sauce", "Mozzarella Cheese", "Grilled Chicken", "Red Onions", "Cilantro"],
+    "price": 13.49,
+    "image_url": "https://w7.pngwing.com/pngs/843/171/png-transparent-pizza-73-restaurant-catupiry-chicken-as-food-pizza-baked-goods-food-recipe-thumbnail.png",
+    "category": "Specialty"
+  },
+  {
+    "id": 7,
+    "name": "Mushroom Lovers Pizza",
+    "description": "Loaded with mushroom varieties, tomato sauce, mozzarella cheese, and garlic.",
+    "toppings": ["Tomato Sauce", "Mozzarella Cheese", "Mushrooms", "Garlic"],
+    "price": 12.99,
+    "image_url": "https://w7.pngwing.com/pngs/133/54/png-transparent-pancakes-served-on-plate-banana-pancakes-scrambled-eggs-breakfast-ihop-pancake-food-recipe-eating-thumbnail.png",
+    "category": "Vegetarian"
+  },
+  {
+    "id": 8,
+    "name": "Meat Feast Pizza",
+    "description": "A meat lover's delight with tomato sauce, mozzarella cheese, pepperoni, sausage, ham, and bacon.",
+    "toppings": ["Tomato Sauce", "Mozzarella Cheese", "Pepperoni", "Sausage", "Ham", "Bacon"],
+    "price": 15.99,
+    "image_url": "https://w7.pngwing.com/pngs/683/103/png-transparent-frozen-yogurt-parfait-breakfast-yoghurt-fruit-salad-yogurt-frutti-di-bosco-food-breakfast-thumbnail.png",
+    "category": "Meat Lovers"
+  },
+  {
+    "id": 9,
+    "name": "Pesto Veggie Pizza",
+    "description": "Delicious pesto sauce, mozzarella cheese, and a medley of roasted vegetables.",
+    "toppings": ["Pesto Sauce", "Mozzarella Cheese", "Roasted Vegetables"],
+    "price": 12.99,
+    "image_url": "https://w7.pngwing.com/pngs/400/603/png-transparent-toast-tostytosty-la-tosteria-menu-food-dish-avocado-toast-food-toast-avocado-toast-thumbnail.png",
+    "category": "Vegetarian"
+  },
+  {
+    "id": 10,
+    "name": "Buffalo Chicken Pizza",
+    "description": "Spicy buffalo sauce, mozzarella cheese, grilled chicken, red onions, and blue cheese crumbles.",
+    "toppings": ["Buffalo Sauce", "Mozzarella Cheese", "Grilled Chicken", "Red Onions", "Blue Cheese Crumbles"],
+    "price": 13.49,
+    "image_url": "https://w7.pngwing.com/pngs/20/725/png-transparent-grain-bowl-breakfast-cereal-muesli-corn-flakes-bowl-granola-food-breakfast-recipe-thumbnail.png",
+    "category": "Specialty"
+  },
+  {
+    "id": 11,
+    "name": "Four Cheese Pizza",
+    "description": "A cheese lover's dream with a blend of mozzarella, cheddar, parmesan, and gorgonzola cheeses.",
+    "toppings": ["Mozzarella Cheese", "Cheddar Cheese", "Parmesan Cheese", "Gorgonzola Cheese"],
+    "price": 12.99,
+    "image_url": "https://w7.pngwing.com/pngs/875/111/png-transparent-north-fish-seafood-dish-smoked-salmon-restaurant-grilled-fish-hd-soup-food-seafood-thumbnail.png",
+    "category": "Vegetarian"
+  },
+  {
+    "id": 12,
+    "name": "Veggie Supreme Pizza",
+    "description": "A veggie-packed delight with tomato sauce, mozzarella cheese, bell peppers, red onions, olives, and mushrooms.",
+    "toppings": ["Tomato Sauce", "Mozzarella Cheese", "Bell Peppers", "Red Onions", "Olives", "Mushrooms"],
+    "price": 13.49,
+    "image_url": "https://w7.pngwing.com/pngs/756/828/png-transparent-taglierini-carbonara-fettuccine-alfredo-chicken-pasta-chicken-fillet-thumbnail.png",
+    "category": "Vegetarian"
+  },
+  {
+    "id": 13,
+    "name": "BBQ Pork Pizza",
+    "description": "BBQ sauce, mozzarella cheese, tender pulled pork, red onions, and cilantro.",
+    "toppings": ["BBQ Sauce", "Mozzarella Cheese", "Pulled Pork", "Red Onions", "Cilantro"],
+    "price": 13.99,
+    "image_url": "https://w7.pngwing.com/pngs/651/721/png-transparent-veggie-burger-vegetable-food-recipe-stir-frying-vegetables-frying-pan-frozen-vegetables-fruit-thumbnail.png",
+    "category": "Specialty"
+  },
+  {
+    "id": 14,
+    "name": "Greek Pizza",
+    "description": "Mediterranean-inspired with tomato sauce, mozzarella cheese, feta cheese, black olives, red onions, and spinach.",
+    "toppings": ["Tomato Sauce", "Mozzarella Cheese", "Feta Cheese", "Black Olives", "Red Onions", "Spinach"],
+    "price": 13.49,
+    "image_url": "https://w7.pngwing.com/pngs/575/331/png-transparent-burrito-taco-bell-mexican-cuisine-chipotle-mexican-grill-menu-thumbnail.png",
+    "category": "Vegetarian"
+  },
+  {
+    "id": 15,
+    "name": "White Pizza",
+    "description": "A creamy delight with garlic-infused olive oil, mozzarella cheese, ricotta cheese, and spinach.",
+    "toppings": ["Garlic Olive Oil", "Mozzarella Cheese", "Ricotta Cheese", "Spinach"],
+    "price": 12.99,
+    "image_url": "https://w7.pngwing.com/pngs/47/171/png-transparent-chinese-noodles-hot-and-sour-soup-risotto-lomi-lamian-slippery-mushrooms-risotto-dusi-soup-food-recipe-thumbnail.png",
+    "category": "Vegetarian"
+  },
+  {
+    "id": 16,
+    "name": "Meatball Pizza",
+    "description": "Tomato sauce, mozzarella cheese, sliced meatballs, and fresh basil.",
+    "toppings": ["Tomato Sauce", "Mozzarella Cheese", "Meatballs", "Fresh Basil"],
+    "price": 13.99,
+    "image_url": "https://w7.pngwing.com/pngs/47/171/png-transparent-chinese-noodles-hot-and-sour-soup-risotto-lomi-lamian-slippery-mushrooms-risotto-dusi-soup-food-recipe-thumbnail.png",
+    "category": "Meat Lovers"
+  },
+  {
+    "id": 17,
+    "name": "Seafood Delight Pizza",
+    "description": "A taste of the ocean with tomato sauce, mozzarella cheese, shrimp, crab, and clams.",
+    "toppings": ["Tomato Sauce", "Mozzarella Cheese", "Shrimp", "Crab", "Clams"],
+    "price": 15.99,
+    "image_url": "https://w7.pngwing.com/pngs/204/32/png-transparent-crispy-fried-chicken-karaage-chicken-nugget-chicken-fingers-buffalo-wing-carrot-chilli-thumbnail.png",
+    "category": "Specialty"
+  },
+  {
+    "id": 18,
+    "name": "Vegan Margherita Pizza",
+    "description": "A vegan twist on the classic with tomato sauce, vegan mozzarella cheese, and fresh basil leaves.",
+    "toppings": ["Tomato Sauce", "Vegan Mozzarella Cheese", "Fresh Basil"],
+    "price": 11.99,
+    "image_url": "https://w7.pngwing.com/pngs/816/163/png-transparent-grilled-skewered-meat-bakery-paneer-tikka-indian-cuisine-vegetarian-cuisine-cake-food-baking-cake-decorating-thumbnail.png",
+    "category": "Vegetarian"
+  },
+  {
+    "id": 19,
+    "name": "Truffle Mushroom Pizza",
+    "description": "Indulgent and earthy with truffle oil, mozzarella cheese, mushrooms, and caramelized onions.",
+    "toppings": ["Truffle Oil", "Mozzarella Cheese", "Mushrooms", "Caramelized Onions"],
+    "price": 14.99,
+    "image_url": "https://w7.pngwing.com/pngs/356/675/png-transparent-falafel-lebanese-cuisine-take-out-mediterranean-cuisine-hummus-bed-miscellaneous-furniture-food-thumbnail.png",
+    "category": "Vegetarian"
+  },
+  {
+    "id": 20,
+    "name": "Tandoori Chicken Pizza",
+    "description": "Indian-inspired with tandoori sauce, mozzarella cheese, tandoori chicken, bell peppers, and red onions.",
+    "toppings": ["Tandoori Sauce", "Mozzarella Cheese", "Tandoori Chicken", "Bell Peppers", "Red Onions"],
+    "price": 13.99,
+    "image_url": "https://w7.pngwing.com/pngs/435/847/png-transparent-pincho-canape-skewer-fruit-others-thumbnail.png",
+    "category": "Specialty"
+  }
+]
